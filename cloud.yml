@@ -1,0 +1,65 @@
+Angelina:
+    Node: CBA-35
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.36:5000/v2.0
+    cic_vip: 10.80.68.134
+Andromeda: 
+    Node: CBA-54
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.21:5000/v2.0/ 
+    cic_vip: 10.80.127.134
+Bill:
+    Node: CBA-43
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.90:5000/v2.0
+    cic_vip: 10.80.84.36
+Cooper:
+    Node: CBA-45
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.94:5000/v2.0
+    cic_vip: 10.80.84.132
+Kennedy:
+    Node: CBA-32
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.69:5000/v2.0
+    cic_vip: 10.80.68.230
+Milton:
+    Node: CBA-41
+    Password: '##MtasV1rtu##'
+    auth_url: http://192.168.2.95:5000/v2.0
+    cic_vip: 10.80.84.4
+Marilyn:
+    Node: CBA-50
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.21:5000/v2.0/
+    cic_vip: 10.80.84.232
+Merlin:
+    Node: CBA-51
+    Password: '##MtasV1rtu##'
+    auth_url: http://192.168.2.95:5000/v2.0
+    cic_vip: 10.80.124.132
+Net2:
+    Node: CBA-36
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.85:5000/v2.0
+    cic_vip: 10.80.84.70
+Newhope:
+    Node: CBA-52
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.96:5000/v2.0
+    cic_vip: 10.80.125.134
+Nikola:
+    Node: CBA-53
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.21:5000/v2.0/
+    cic_vip: 10.80.126.134
+Skynet:
+    Node: CBA-55
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.59:5000/v2.0
+    cic_vip: 10.80.99.133
+William:
+    Node: CBA-40
+    Password: '##Ce3Adm1N##'
+    auth_url: http://192.168.2.21:5000/v2.0/ 
+    cic_vip: 10.80.84.102
